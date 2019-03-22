@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BitmapToNV21</string>
+    <string name="select_jpg">"JPG"</string>
+    <string name="select_nv21">"NV21"</string>
+    <string name="convert_nv21_success">"Convert to nv21 success!"</string>
+    <string name="convert_nv21_fail">"Convert to nv21 fail!"</string>
+    <string name="format_error">"Please select .nv21!"</string>
+    <string name="convert_rgb_success">"Convert to rgb success!"</string>
+    <string name="convert_rgb_fail">"Convert to rgb fail!"</string>
+    <string name="permission_deny">"Can't do anything if no permission"</string>
+</resources>
